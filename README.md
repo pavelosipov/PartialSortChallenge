@@ -16,5 +16,5 @@ Soroush Khanlou wrote a fascinating article [Analyzing Complexity](http://khanlo
 
 ## Reproducing Experiment without Attabench
 1. Clone that repository `git clone https://github.com/pavelosipov/PartialSortChallenge.git`
-2. Uncomment `Performance Debug Section`
+2. Uncomment `Performance Debug Section` and comment `Performance Benchmark Section`
 3. Run the code in Release mode.
